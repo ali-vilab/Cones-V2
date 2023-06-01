@@ -1,6 +1,6 @@
 # Cones 2
 
-Official repo for [Cones 2: Customizable Image Synthesis with Multiple Subjects].
+Official repo for [Cones 2: Customizable Image Synthesis with Multiple Subjects](https://arxiv.org/abs/2305.19327).
 
 See [Project Page](https://cones-page.github.io/) for more examples.
 <div align=center>
