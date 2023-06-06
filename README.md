@@ -18,7 +18,7 @@ Cones 2 uses a simple yet effective representation to register a subject. The st
 
 ## Method
 
-![method](pics/architecture.png "method")
+![method](pics/arch.jpg "method")
 
 (a) Given few-shot images of the customized subject, we fine-tune the text encoder to learn a residual embedding on top of the base embedding of raw subject. (b) Based on the residual embeddings, we then propose to employ layout as the spatial guidance for subject arrangement into the attention maps. After that, we could strengthen the signal of target subjects and weaken the signal of irrelevant subjects.
 
