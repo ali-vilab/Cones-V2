@@ -13,7 +13,8 @@ Cones 2 uses a simple yet effective representation to register a subject. The st
 
 ## TODO
 
-- [ ] Release code in next week.
+- [ ] Release code.
+- [ ] Release pretrained residual embeddings.
 - [ ] Release Gradio UI.
 
 ## Method
