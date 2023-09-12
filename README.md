@@ -145,6 +145,16 @@ models for quick validation.
     <th>sunglasses</th>
     <td><a href="https://www.modelscope.cn/api/v1/datasets/zyf619/cones2_residual/repo?Revision=master&FilePath=sunglasses.pt">sunglasses.pt</a></td>
   </tr>
+  <tr>
+    <td>bag</td>
+    <th>bag</th>
+    <td><a href="https://www.modelscope.cn/api/v1/datasets/zyf619/cones2_residual/repo?Revision=master&FilePath=bag.pt">bag.pt</a></td>
+  </tr>
+  <tr>
+    <td>robot</td>
+    <th>robot toy</th>
+    <td><a href="https://www.modelscope.cn/api/v1/datasets/zyf619/cones2_residual/repo?Revision=master&FilePath=robot_toy.pt">robot_toy.pt</a></td>
+  </tr>
 </table>
 
 
