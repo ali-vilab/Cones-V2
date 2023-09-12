@@ -1,0 +1,22 @@
+[
+    {
+        "prompt":"a mug and a dog on the beach",
+        "residual_dict": {
+            "dog":"residuals/dog.pt",
+            "mug":"residuals/mug.pt",
+            "flower":"residuals/flower.pt",
+            "sunglasses":"residuals/sunglasses.pt",
+            "lake":"residuals/lake.pt",
+            "barn":"residuals/barn.pt"
+        },
+        "color_context":{
+            "255,192,0":["mug",2.5],
+            "255,0,0":["dog",2.5]
+        },
+        "guidance_steps":50,
+        "guidance_weight":0.08,
+        "weight_negative":-1e8,
+        "layout":"layouts/layout_example.png",
+        "subject_list":[["mug",2],["dog",5]]
+    }
+]

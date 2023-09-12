@@ -1,0 +1,15 @@
+torch==1.13.1
+torchvision==0.14.1
+omegaconf==2.2.3
+opencv-python
+imageio==2.9.0
+transformers==4.26.1
+diffusers==0.13.1
+accelerate==0.20.0
+scipy==1.9.1
+hydra-core==1.2.0
+tqdm
+gradio==3.23.0
+pillow
+packaging
+numpy
