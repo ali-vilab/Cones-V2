@@ -95,7 +95,7 @@ accelerate launch train_cones2.py \
   --resolution=768 \
   --train_batch_size=1 \
   --gradient_accumulation_steps=1 \
-  --learning_rate=5e-6 \
+  --learning_rate=4e-5 \
   --lr_scheduler="constant" \
   --lr_warmup_steps=0 \
   --max_train_steps=3000 \
